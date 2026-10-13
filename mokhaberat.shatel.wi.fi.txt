@@ -1,341 +1,243 @@
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.142:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#MHVPN%2001%20%F0%9F%8C%8D%20Unknown
+vless://36a1c787-fb9e-4fea-ba54-5cb33255d4de@freetg.ghost-service.cc:9443?path=%2Flive.stream.v1.Broadcast%2F&security=tls&encryption=none&insecure=0&host=freetg.ghost-service.cc&type=ws&allowInsecure=0&sni=freetg.ghost-service.cc#MHVPN%2001%20%F0%9F%8C%8D%20Unknown
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#MHVPN%2002%20%F0%9F%8C%8D%20Unknown
+vless://d342d11e-d224-4463-b982-532309285094@157.230.101.36:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#MHVPN%2002%20%F0%9F%8C%8D%20Unknown
 
-vless://267b3a79-81f2-42ac-a409-c23b05b6329d@185.170.211.187:443?mode=gun&security=reality&encryption=none&pbk=eztZ1H-OkkHao6d4FhX8Q728qN1UIeFcYH2jObRq1gc&fp=firefox&type=grpc&serviceName=api.v2.nl2e63a0c5&sni=nl2.bbobr.win&sid=fbe9c012125d90d2#MHVPN%2001%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#MHVPN%2003%20%F0%9F%8C%8D%20Unknown
 
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#MHVPN%2003%20%F0%9F%8C%8D%20Unknown
+vless://rgiw5k0gg5@rgiw5k0gg5-1492025789-direct.kheibarr.com:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=rgiw5k0gg5-1492025789-direct.kheibarr.com#MHVPN%2004%20%F0%9F%8C%8D%20Unknown
 
-vmess://eyJhZGQiOiI5MS4xMDcuMTY5LjIyNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZG5zLWxvb2suc3BhY2UuIiwiaWQiOiJkNGI2OTEwOC1mNzU2LTQ4YWYtYTMzMS1lODM1NmJjOTVlYjQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJodHRwdXBncmFkZSIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjgwIiwicHMiOiJNSFZQTiAwNCDwn4yNIFVua25vd24iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiIiLCJ2IjoiMiIsInZjbiI6IiJ9
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@179.198.49.99:443?security=reality&encryption=none&pbk=iwHKqXfMtE61bupFq0qdpc8_uGwQswGc3JpLvDVB9Wo&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=pl1.nztvpn.com&sid=088b263ae349cc97#MHVPN%2001%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
 
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@w907rj.orbitacorp.dev:443?mode=gun&security=reality&encryption=none&pbk=wkOdDtGijULUqkGSJv2aHGctI7Ss8GnOE1iS8QNwwjo&fp=firefox&type=grpc&serviceName=1f251e273f&sni=fi9.eu-cdn294.com&sid=98e90c117acf8155#MHVPN%2001%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+trojan://humanity@188.226.181.61:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#MHVPN%2002%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
 
-vless://ecbe8dbc-44f7-4275-8a6c-b0976a7bb5c8@94.103.168.57:2087?mode=stream-one&path=%2Fretasokrer&security=tls&alpn=h2&encryption=none&insecure=0&host=spp1.localip.ir&type=xhttp&allowInsecure=0&sni=spp1.localip.ir#MHVPN%2001%20%F0%9F%87%AE%F0%9F%87%B7%20Iran
-
-vless://20d51411-b4c2-4485-a80b-8f322da808b8@host.taghvimtime.ir:8443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&insecure=0&host=host.taghvimtime.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=host.taghvimtime.ir#MHVPN%2002%20%F0%9F%87%AE%F0%9F%87%B7%20Iran
-
-ss://YWVzLTEyOC1nY206NTlkZWQxNTkxYjBiNDVmMGIxZTkzNjEzMzRjMGY3ZDk@185.212.171.202:18670#MHVPN%2005%20%F0%9F%8C%8D%20Unknown
-
-vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@200.165.231.209:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0&sni=wstg.datasynctrue.online#MHVPN%2006%20%F0%9F%8C%8D%20Unknown
-
-vless://267b3a79-81f2-42ac-a409-c23b05b6329d@87.58.158.82:443?security=reality&encryption=none&pbk=zBNHm7DwlBZ2rfu2F5e3jMsmR2q74KpS2L6EavCVmkA&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=dk7.bbobr.win&sid=f6985908fcb5612f#MHVPN%2002%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
-
-vless://e9e60f73-1618-491c-a85b-477bdc959ae6@141.98.7.193:2083?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=141.98.7.193#MHVPN%2007%20%F0%9F%8C%8D%20Unknown
-
-vless://318c935d-c195-41d3-99ad-9bbcfdab3386@177.1.188.96:443?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fl1.balancer.vbuste-bot.com&sid=4be4110078ebed4a#MHVPN%2008%20%F0%9F%8C%8D%20Unknown
-
-vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.77.114.114:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=api.vk.me&sid=db04ce8bdb8900f1#MHVPN%2009%20%F0%9F%8C%8D%20Unknown
-
-trojan://Trojan%4082164024@gb.tronsg.com:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#MHVPN%2001%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey
-
-vless://d342d11e-d224-4463-b982-532309285094@107.189.26.160:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#MHVPN%2010%20%F0%9F%8C%8D%20Unknown
-
-vless://267b3a79-81f2-42ac-a409-c23b05b6329d@178.253.233.118:443?security=reality&encryption=none&pbk=aRhhdxVu0EiUbVl1Wyq6DLjJMRRJ78YQY2rN5Ne98gg&fp=chrome&type=grpc&serviceName=api.v2.nl7c05e8a3&sni=nl7.bbobr.win&sid=5d3849c8fc1e63b0#MHVPN%2003%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
-
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443#MHVPN%2011%20%F0%9F%8C%8D%20Unknown
-
-vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.77.114.114:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D512&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=api.vk.me&sid=db04ce8bdb8900f1#MHVPN%2012%20%F0%9F%8C%8D%20Unknown
-
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.site&sid=00000000#MHVPN%2001%20%F0%9F%87%B8%F0%9F%87%AE%20Slovenia
-
-vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?mode=auto&path=%2Fapi%2Fv1%2F%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&fp=random&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#MHVPN%2013%20%F0%9F%8C%8D%20Unknown
-
-trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#MHVPN%2001%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-
-vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?mode=auto&path=%2Fapi%2Fv1%2F%3Fed%23&security=tls&encryption=none&insecure=0&fp=random&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#MHVPN%2014%20%F0%9F%8C%8D%20Unknown
-
-vless://57284239-1ceb-439f-826e-cd25fcc1c1c5@188.225.45.77:443?mode=gun&security=reality&encryption=none&pbk=5SjHShy0uFG9MmzFbZ21Ozg623ZXKwLf3pzC_QA8CBE&fp=chrome&type=grpc&serviceName=grpc&sni=5post-gate.x5.ru&sid=5803463a64073dfc#MHVPN%2001%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@pl-waw.dontblockmepls.com:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#MHVPN%2002%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-
-vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?mode=auto&path=%2Fapi%2Fv1%2F&security=tls&encryption=none&insecure=0&fp=random&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#MHVPN%2015%20%F0%9F%8C%8D%20Unknown
-
-vless://318c935d-c195-41d3-99ad-9bbcfdab3386@179.61.145.245:443?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de2.srv.vbuste.ru&sid=4be4110078ebed4a#MHVPN%2003%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-
-vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@fitindoor.net:2053?mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%0A%20%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%0A%20%20%22scMaxEachPostBytes%22%3A%201000000%2C%0A%20%20%22scMinPostsIntervalMs%22%3A%2030%2C%0A%20%20%22xmux%22%3A%20%7B%0A%20%20%20%20%22maxConcurrency%22%3A%20%2216-32%22%2C%0A%20%20%20%20%22maxConnections%22%3A%200%2C%0A%20%20%20%20%22cMaxReuseTimes%22%3A%20%2264-128%22%0A%20%20%7D%0A%7D&insecure=0&host=fitindoor.net&fp=firefox&type=xhttp&allowInsecure=0&sni=fitindoor.net#MHVPN%2016%20%F0%9F%8C%8D%20Unknown
-
-vless://88281d02-b387-4fe3-918e-26ed331e6d08@201.7.25.100:24446?mode=gun&security=reality&encryption=none&pbk=w9JCByLSU3NGciCv2iceOz4TRL4swv8jfIAYoaKSyEw&fp=random&type=grpc&serviceName=telegram-bridge&sni=willow.cdn.cachefleet.com&sid=a0938b702257f780#MHVPN%2001%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
-
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@179.198.49.99:443?security=reality&encryption=none&pbk=iwHKqXfMtE61bupFq0qdpc8_uGwQswGc3JpLvDVB9Wo&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=pl1.nztvpn.com&sid=088b263ae349cc97#MHVPN%2002%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://7q4eiwcseu@7q4eiwcseu-193708596-direct.rahbarii.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=7q4eiwcseu-193708596-direct.rahbarii.com#MHVPN%2005%20%F0%9F%8C%8D%20Unknown
 
 vless://ee18d188-14cc-417e-beb1-70e4add6d023@179.198.49.99:443?security=reality&encryption=none&pbk=iwHKqXfMtE61bupFq0qdpc8_uGwQswGc3JpLvDVB9Wo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl1.nztvpn.com&sid=088b263ae349cc97#MHVPN%2003%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
 
-trojan://humanity@212.183.88.136:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#MHVPN%2002%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
+vless://36a1c787-fb9e-4fea-ba54-5cb33255d4de@freetg.ghost-service.cc:443?security=reality&encryption=none&pbk=bzv2S23383rd8Ega-o_QrY4PypA6hEA3PrwWWI6LEnQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=freetg.ghost-service.cc&sid=d4943b89d83cb97d#MHVPN%2006%20%F0%9F%8C%8D%20Unknown
 
-vless://c53ea5e9-ed8b-4990-805d-7f1d6451426c@du-rov.secureservice.top:8443?security=reality&encryption=none&pbk=fSVfR9NB-6J6smrZlavi0GWd8JfDh0aXuEkKbtuFzUI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=du-rov.secureservice.top&sid=3cbc3d737fb9c4af#MHVPN%2001%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLNXNFdlppS21lbnMxMDRC@20.234.97.18:443#MHVPN%2007%20%F0%9F%8C%8D%20Unknown
 
-vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@144.31.215.227:443?security=reality&encryption=none&pbk=LEoyslGYLVf2XWq9Bkq8Hod-EsB3ZoTlvR5AKK3rciQ&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=cdn-de.bulkavpn.top&sid=c885e8f8#MHVPN%2004%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://8d790ba0-5407-441b-b545-8ab369c591ce@150.251.141.90:443?security=reality&encryption=none&pbk=2f_7ERsv1xlrHryC9Fmaw5D8_Dgo3B5pP0OMctsCngs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=n1.coconutsvpn.com&sid=3b3afe877e7dec9b#MHVPN%2008%20%F0%9F%8C%8D%20Unknown
 
-vless://9f309ae0-172e-4b6e-d382-b2a70be59823@kala.fortresshost.ir:443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=mlkem768x25519plus.native.0rtt.0Vh97j6xS7KWSt0KJUlPGDqvOnB6YEWo0xWQ3HQgYm4&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&insecure=0&host=kala.fortresshost.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=kala.fortresshost.ir#MHVPN%2003%20%F0%9F%87%AE%F0%9F%87%B7%20Iran
+vless://a16a3e32-8d63-4dec-8c67-1361388a64ca@46.246.125.153:443?security=reality&encryption=none&pbk=ftglT-Ghp2FPiPlwyEAldfiAE1IL_AJ9UCkfCj0zk2I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=res.cdn.office.net&sid=a83b77e064761e3c#MHVPN%2001%20%F0%9F%87%AA%F0%9F%87%B8%20Spain
 
-trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=www.calmlunch.com#MHVPN%2003%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
+vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.77.114.114:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.vk.me&sid=db04ce8bdb8900f1#MHVPN%2009%20%F0%9F%8C%8D%20Unknown
 
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&fp=edge&type=ws&allowInsecure=0&sni=www.volumeroot.com#MHVPN%2017%20%F0%9F%8C%8D%20Unknown
+vless://9ee57d03-dcf5-488b-aff7-305301879353@89.23.113.11:443?security=reality&encryption=none&pbk=DP_8vX-l2ugAHn828ZGa4wHp4Y7YOZrhGKiTMaFoCDc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ru-in-lt-4vp.movietop24.site&sid=4ea43db267b5fd8b#MHVPN%2001%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
 
-trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=ios&type=ws&allowInsecure=0&sni=www.calmlunch.com#MHVPN%2004%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
+vless://2db2d74d-f653-459c-818e-22a294e24175@188.225.37.224:443?security=reality&encryption=none&pbk=lWZR5WmRc_qa11MTPhUzHF3ijTDdz7rDaTuzj9sglSs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=max.ru#MHVPN%2002%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
 
-ss://YWVzLTEyOC1nY206MWNiYjNlMzQ3ZWU4NmUxOTgwYTdjNzMxZTlkZDAwYTA@64.74.161.147:17200#MHVPN%2018%20%F0%9F%8C%8D%20Unknown
+vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@200.165.231.209:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0&sni=wstg.datasynctrue.online#MHVPN%2010%20%F0%9F%8C%8D%20Unknown
 
-trojan://humanity@104.17.44.17:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#MHVPN%2004%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+trojan://UX82473651@34.242.77.118:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=sacred-anemone.rooster465.autos#MHVPN%2001%20%F0%9F%87%A6%F0%9F%87%BA%20Australia
 
-vless://267b3a79-81f2-42ac-a409-c23b05b6329d@45.8.201.121:443?security=reality&encryption=none&authority=us7.bbobr.win&pbk=NOjnh1ZRSxW5LqakQctsf4Sx0xu1rFNtzce-v-MpwwE&fp=firefox&type=grpc&serviceName=api.v2.us7f28b1d6&sni=us7.bbobr.win&sid=a59ba372400e4779#MHVPN%2004%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+trojan://UX82473651@3.253.106.233:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=loved-shark.rooster465.autos#MHVPN%2002%20%F0%9F%87%A6%F0%9F%87%BA%20Australia
 
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&fp=android&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#MHVPN%2019%20%F0%9F%8C%8D%20Unknown
+vless://f9cb2991-ad4a-4a54-aeb3-55d56ac02a8e@31.76.68.245:443?security=reality&encryption=none&pbk=INbgA5nXpjZ2P1f6lY7sMBlDM3ZMV8RX3cw-RRGM0mM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fra01.deflink.net&sid=f22e97cfd4d9#MHVPN%2001%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
 
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&fp=edge&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#MHVPN%2020%20%F0%9F%8C%8D%20Unknown
+vless://tyxyrytyro@tyxyrytyro-51255165170-direct.araghchy.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=tyxyrytyro-51255165170-direct.araghchy.com#MHVPN%2001%20%F0%9F%87%B7%F0%9F%87%B4%20Romania
 
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=0e#MHVPN%2021%20%F0%9F%8C%8D%20Unknown
+vless://a16a3e32-8d63-4dec-8c67-1361388a64ca@46.246.125.153:443?security=reality&encryption=none&pbk=ftglT-Ghp2FPiPlwyEAldfiAE1IL_AJ9UCkfCj0zk2I&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=res.cdn.office.net&sid=a83b77e064761e3c#MHVPN%2002%20%F0%9F%87%AA%F0%9F%87%B8%20Spain
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#MHVPN%2022%20%F0%9F%8C%8D%20Unknown
+vless://40fbeade-2b35-55e2-8e72-39893b5917ea@51.255.165.170:443?security=tls&encryption=none&insecure=0&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=tyxyrytyro-51255165170-direct.araghchy.com#MHVPN%2002%20%F0%9F%87%B7%F0%9F%87%B4%20Romania
 
-trojan://UX82473651@present-ram.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=present-ram.rooster465.autos#MHVPN%2001%20%F0%9F%87%A6%F0%9F%87%BA%20Australia
+trojan://UX82473651@63.178.198.94:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pleased-albacore.rooster465.autos#MHVPN%2003%20%F0%9F%87%A6%F0%9F%87%BA%20Australia
 
-vless://267b3a79-81f2-42ac-a409-c23b05b6329d@45.8.201.83:443?security=reality&encryption=none&pbk=NOjnh1ZRSxW5LqakQctsf4Sx0xu1rFNtzce-v-MpwwE&fp=firefox&type=grpc&serviceName=api.v2.us7f28b1d6&sni=us7.bbobr.win&sid=a59ba372400e4779#MHVPN%2005%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+vless://3db6eb7e-c548-11f1-9902-a337233c6cda@193.27.200.200:443?security=reality&encryption=none&pbk=Sikc1gu5t_uwitf1xTTChP9tpT_sjY530p2tioHbmz0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=swe.wizard.select&sid=3b20e438da99#MHVPN%2001%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
 
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&fp=firefox&type=ws&allowInsecure=0&sni=www.volumeroot.com#MHVPN%2023%20%F0%9F%8C%8D%20Unknown
+vless://c60cd62f-8dc5-415f-826b-abb7856027d1@kala.fortresshost.ir:443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=mlkem768x25519plus.native.0rtt.0Vh97j6xS7KWSt0KJUlPGDqvOnB6YEWo0xWQ3HQgYm4&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&insecure=0&host=kala.fortresshost.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=kala.fortresshost.ir#MHVPN%2001%20%F0%9F%87%AE%F0%9F%87%B7%20Iran
 
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@42.200.173.5:443?security=reality&encryption=none&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=s3.ap-east-1.amazonaws.com&sid=1a#MHVPN%2024%20%F0%9F%8C%8D%20Unknown
+vless://90c08c98-7ec8-4fab-da36-cf140d18c708@host.taghvimtime.ir:8443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&insecure=0&host=host.taghvimtime.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=host.taghvimtime.ir#MHVPN%2002%20%F0%9F%87%AE%F0%9F%87%B7%20Iran
 
-vmess://eyJhZGQiOiIxNzMuMjQ5LjE5OC4xMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiWEVYRVZJTCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii90ZWw9QHVzZXJfeGV4ZXZpbCIsInBjcyI6IiIsInBvcnQiOiI0NDMiLCJwcyI6Ik1IVlBOIDI1IPCfjI0gVW5rbm93biIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
+vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.77.114.114:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=api.vk.me&sid=db04ce8bdb8900f1#MHVPN%2011%20%F0%9F%8C%8D%20Unknown
 
-vless://a853e120-3570-462b-aec1-e8f3d4f92d24@72.146.234.10:443?security=tls&encryption=none&insecure=0&host=asia.csmaster.site&fp=chrome&type=ws&allowInsecure=0&sni=asia.csmaster.site#MHVPN%2002%20%F0%9F%87%B8%F0%9F%87%AE%20Slovenia
+vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.74:443?security=reality&encryption=none&pbk=qC0g7Y0pwyLFTGAPG2zfZNuo64Cda695wdKgLU4KkF8&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=770618b6#MHVPN%2012%20%F0%9F%8C%8D%20Unknown
 
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#MHVPN%2026%20%F0%9F%8C%8D%20Unknown
+vmess://eyJhZGQiOiI1NC4zNy4xMzEuMTI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLCJpZCI6IjZkZWVmOWFkLTEzNTctNDQzZC1mOTVjLWNiMTg5NTJjMjBiMyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiODAiLCJwcyI6Ik1IVlBOIDAzIPCfh67wn4e3IElyYW4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
 
-vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@3696b38bsg.murphyweb.sbs:32134?security=reality&encryption=none&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=buylite.music.apple.com&sid=6c6c7c97#MHVPN%2001%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore
+vless://88281d02-b387-4fe3-918e-26ed331e6d08@201.7.25.100:24446?mode=gun&security=reality&encryption=none&pbk=w9JCByLSU3NGciCv2iceOz4TRL4swv8jfIAYoaKSyEw&fp=random&type=grpc&serviceName=telegram-bridge&sni=willow.cdn.cachefleet.com&sid=a0938b702257f780#MHVPN%2001%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
 
-vless://2412bd96-925b-43f2-81d1-0ed4f0793699@31.207.7.74:443?security=reality&encryption=none&pbk=RDL0RVmgFM3fdqXRSHBF2A53YF9TPFu2aeJQhMTaY3s&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=pkg.go.dev&sid=457ae5b8bef4d1b3#MHVPN%2005%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://d05378e4-61d1-4aa2-9fa1-32628900f911@212.115.55.109:9421?security=reality&encryption=none&pbk=6pZWjiFTUUuL3tjB8ls0cnyXTMbRbSdQ9Y31xi5NhEI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=exton.xanka.best&sid=5be9fe01#MHVPN%2001%20%F0%9F%87%A7%F0%9F%87%AA%20Belgium
 
-vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@139.162.27.96:2096?path=%2Ffree-server.techsonic.dev&security=tls&encryption=none&insecure=0&host=free-server.techsonic.dev&fp=chrome&type=ws&allowInsecure=0&sni=free-server.techsonic.dev#MHVPN%2006%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#MHVPN%2013%20%F0%9F%8C%8D%20Unknown
 
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#MHVPN%2027%20%F0%9F%8C%8D%20Unknown
+trojan://humanity@46.62.204.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#MHVPN%2004%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
 
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn#MHVPN%2028%20%F0%9F%8C%8D%20Unknown
+vmess://eyJhZGQiOiIxNDUuMjM5LjU1LjIxMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZm9ydHJlc3Nob3N0LmlyLiIsImlkIjoiMDY3ZmNkNjMtYjIxNS00YWJkLTg1MjktYWU5MjlhOTk3MWE5IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiI4MCIsInBzIjoiTUhWUE4gMDQg8J+HrvCfh7cgSXJhbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
 
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn#MHVPN%2029%20%F0%9F%8C%8D%20Unknown
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.site&sid=00000000#MHVPN%2001%20%F0%9F%87%B8%F0%9F%87%AE%20Slovenia
 
-vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@139.162.27.96:2096?path=%2Ffree-server.techsonic.dev&security=tls&encryption=none&insecure=0&host=free-server.techsonic.dev&fp=firefox&type=ws&allowInsecure=0&sni=free-server.techsonic.dev#MHVPN%2007%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://f9cb2991-ad4a-4a54-aeb3-55d56ac02a8e@31.76.68.245:443?security=reality&encryption=none&pbk=INbgA5nXpjZ2P1f6lY7sMBlDM3ZMV8RX3cw-RRGM0mM&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=fra01.deflink.net&sid=f22e97cfd4d9#MHVPN%2002%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
 
-vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@139.162.27.96:2096?path=%2Ffree-server.techsonic.dev&security=tls&encryption=none&insecure=0&host=free-server.techsonic.dev&type=ws&allowInsecure=0&sni=free-server.techsonic.dev#MHVPN%2008%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHYXlZYTJWN3BVYkpCZkt1@20.234.97.18:443#MHVPN%2014%20%F0%9F%8C%8D%20Unknown
 
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&fp=safari&type=ws&allowInsecure=0&sni=www.volumeroot.com#MHVPN%2030%20%F0%9F%8C%8D%20Unknown
+vless://bb0f1ed0-0298-40a1-adb1-1f5d6ab33d54@arcturus.yokkastars.com:40443?security=reality&encryption=none&pbk=w4AYHvQnQS6olDqoG9ptLOtgehaWOsv9HQhDax5bLA4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=db46e2946fc466fd#MHVPN%2001%20%F0%9F%87%BA%F0%9F%87%B8%20USA
 
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&fp=android&type=ws&allowInsecure=0&sni=www.volumeroot.com#MHVPN%2031%20%F0%9F%8C%8D%20Unknown
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#MHVPN%2015%20%F0%9F%8C%8D%20Unknown
 
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&fp=safari&type=ws&allowInsecure=0&sni=www.volumeroot.com#MHVPN%2032%20%F0%9F%8C%8D%20Unknown
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#MHVPN%2016%20%F0%9F%8C%8D%20Unknown
 
-vless://ba9ba1d3-19c8-4792-9d3f-ddd2cdcc2e65@support.zoom.us:8443?path=%2Fxprolk-primeline&security=tls&encryption=none&insecure=0&host=primelinelk.me&fp=firefox&type=ws&allowInsecure=0&sni=primelinelk.me#MHVPN%2001%20%F0%9F%87%BA%F0%9F%87%B8%20USA
+trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#MHVPN%2002%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
 
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&fp=ios&type=ws&allowInsecure=0&sni=www.volumeroot.com#MHVPN%2033%20%F0%9F%8C%8D%20Unknown
+trojan://UX82473651@3.75.93.113:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=meet-goshawk.rooster465.autos#MHVPN%2004%20%F0%9F%87%A6%F0%9F%87%BA%20Australia
 
-vless://267b3a79-81f2-42ac-a409-c23b05b6329d@23.134.124.54:443?mode=gun&security=reality&encryption=none&authority=us7.bbobr.win&pbk=NOjnh1ZRSxW5LqakQctsf4Sx0xu1rFNtzce-v-MpwwE&fp=firefox&type=grpc&serviceName=api.v2.us7f28b1d6&sni=us7.bbobr.win&sid=a59ba372400e4779#MHVPN%2006%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#MHVPN%2005%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
 
-vless://ba9ba1d3-19c8-4792-9d3f-ddd2cdcc2e65@170.114.45.6:8443?path=%2Fxprolk-primeline&security=tls&encryption=none&insecure=0&host=primelinelk.me&fp=chrome&type=ws&allowInsecure=0&sni=primelinelk.me#MHVPN%2034%20%F0%9F%8C%8D%20Unknown
+trojan://humanity@144.31.205.106:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#MHVPN%2006%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
 
-trojan://Trojan%4082164024@18.168.148.212:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=gb.tronsg.com#MHVPN%2002%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey
+trojan://humanity@212.183.88.136:443?path=%2F%252Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#MHVPN%2003%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
 
-vless://ba9ba1d3-19c8-4792-9d3f-ddd2cdcc2e65@170.114.45.6:8443?path=%2Fxprolk-primeline&security=tls&encryption=none&insecure=0&host=primelinelk.me&fp=firefox&type=ws&allowInsecure=0&sni=primelinelk.me#MHVPN%2035%20%F0%9F%8C%8D%20Unknown
+vless://78df7be3-9285-4add-92d5-db68745f16c6@15.204.178.6:43000?security=reality&encryption=none&pbk=fsLFw48mueeoPnQqbEA4nCrqgHd3Pxm8ZNfPAZd8jCw&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sid=4fa6b4a5#MHVPN%2017%20%F0%9F%8C%8D%20Unknown
 
-trojan://Trojan%4082164024@ie.tronsg.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ie.tronsg.com#MHVPN%2003%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#MHVPN%2018%20%F0%9F%8C%8D%20Unknown
 
-trojan://humanity@104.18.4.5:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#MHVPN%2036%20%F0%9F%8C%8D%20Unknown
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#MHVPN%2019%20%F0%9F%8C%8D%20Unknown
 
-trojan://UX82473651@equipped-stingray.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=equipped-stingray.rooster465.autos#MHVPN%2002%20%F0%9F%87%A6%F0%9F%87%BA%20Australia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMHd4YzNSVVl3eEl6S1Nm@102.37.103.137:443#MHVPN%2020%20%F0%9F%8C%8D%20Unknown
 
-vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@144.31.215.227:443?security=reality&encryption=none&pbk=LEoyslGYLVf2XWq9Bkq8Hod-EsB3ZoTlvR5AKK3rciQ&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=cdn-de.bulkavpn.top&sid=c885e8f8#MHVPN%2009%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#MHVPN%2021%20%F0%9F%8C%8D%20Unknown
 
-trojan://UX82473651@amazed-mako.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=amazed-mako.rooster465.autos#MHVPN%2003%20%F0%9F%87%A6%F0%9F%87%BA%20Australia
+vless://c423cc1b-f88e-421c-9a16-c480d84da20f@198.251.78.29:2053?security=reality&encryption=none&pbk=Uk5b-Wh_uxeCc7R8NS9iWE40xc0h9wWC04rSB9yhgAw&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=b5d625695ec82c7e#MHVPN%2001%20%F0%9F%87%A8%F0%9F%87%B1%20Chile
 
-vless://d342d11e-d224-4463-b982-532309285094@203.202.232.211:443?path=%2Ffp%23TELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#MHVPN%2037%20%F0%9F%8C%8D%20Unknown
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#MHVPN%2022%20%F0%9F%8C%8D%20Unknown
 
-trojan://UX82473651@equipped-stingray.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=equipped-stingray.rooster465.autos#MHVPN%2004%20%F0%9F%87%A6%F0%9F%87%BA%20Australia
+vless://f9cb2991-ad4a-4a54-aeb3-55d56ac02a8e@31.76.68.245:443?security=reality&encryption=none&pbk=INbgA5nXpjZ2P1f6lY7sMBlDM3ZMV8RX3cw-RRGM0mM&host=%2F%3FTELEGRAM-----TOOTFFARANGI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fra01.deflink.net&sid=f22e97cfd4d9#MHVPN%2003%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
 
-trojan://UX82473651@normal-macaque.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=normal-macaque.rooster465.autos#MHVPN%2005%20%F0%9F%87%A6%F0%9F%87%BA%20Australia
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn#MHVPN%2023%20%F0%9F%8C%8D%20Unknown
 
-vmess://eyJhZGQiOiIxNTYuMjQ1LjIzMi4yMzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjE1ZTQ4MWQtMTdlNC00MWE4LTg0YzItMjNkNGYwNTE0ZDlhIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIzNTA0MyIsInBzIjoiTUhWUE4gMzgg8J+MjSBVbmtub3duIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwidiI6IjIiLCJ2Y24iOiIifQ==
+vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@139.162.27.96:2096?path=%2Ffree-server.techsonic.dev&security=tls&encryption=none&insecure=0&host=free-server.techsonic.dev&fp=chrome&type=ws&allowInsecure=0&sni=free-server.techsonic.dev#MHVPN%2004%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
 
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#MHVPN%2039%20%F0%9F%8C%8D%20Unknown
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#MHVPN%2024%20%F0%9F%8C%8D%20Unknown
 
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&fp=ios&type=ws&allowInsecure=0&sni=www.volumeroot.com#MHVPN%2040%20%F0%9F%8C%8D%20Unknown
+vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@3696b38bsg.murphyweb.sbs:32134?security=reality&encryption=none&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&host=buylite.music.apple.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=buylite.music.apple.com&sid=6c6c7c97#MHVPN%2001%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore
 
-vless://ba9ba1d3-19c8-4792-9d3f-ddd2cdcc2e65@170.114.46.6:8443?path=%2Fxprolk-primeline&security=tls&encryption=none&insecure=0&host=primelinelk.me&fp=chrome&type=ws&allowInsecure=0&sni=primelinelk.me#MHVPN%2041%20%F0%9F%8C%8D%20Unknown
+trojan://humanity@144.31.182.130:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#MHVPN%2025%20%F0%9F%8C%8D%20Unknown
 
-vless://ba9ba1d3-19c8-4792-9d3f-ddd2cdcc2e65@support.zoom.us:8443?path=%2Fxprolk-primeline&security=tls&encryption=none&insecure=0&host=primelinelk.me&fp=chrome&type=ws&allowInsecure=0&sni=primelinelk.me#MHVPN%2002%20%F0%9F%87%BA%F0%9F%87%B8%20USA
+vmess://eyJhZGQiOiIxMjAuNDguMTMzLjE2MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmZGUxMGUzOS00OGJiLTRkY2YtYjNiYS03MWQ3MTEzMjNhNTQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvP1RlbGVncmFtLS0tUExBTkJfTkVULS0tUExBTkJfTkVULS0tUExBTkJfTkVULS0tUExBTkJfTkVUIiwicGNzIjoiIiwicG9ydCI6IjEwMDg2IiwicHMiOiJNSFZQTiAyNiDwn4yNIFVua25vd24iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
 
-vless://ba9ba1d3-19c8-4792-9d3f-ddd2cdcc2e65@support.zoom.us:8443?path=%2Fxprolk-primeline&security=tls&encryption=none&insecure=0&host=primelinelk.me&fp=safari&type=ws&allowInsecure=0&sni=primelinelk.me#MHVPN%2003%20%F0%9F%87%BA%F0%9F%87%B8%20USA
+trojan://UX82473651@52.221.219.241:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=fond-mammoth.rooster465.autos#MHVPN%2005%20%F0%9F%87%A6%F0%9F%87%BA%20Australia
 
-vless://3c52e091-6714-4915-949f-2149fe69951b@104.16.10.2:443?path=%2Fws&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=v2ray.simspeedup.com&type=ws&allowInsecure=0&sni=v2ray.simspeedup.com#MHVPN%2003%20%F0%9F%87%B8%F0%9F%87%AE%20Slovenia
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#MHVPN%2027%20%F0%9F%8C%8D%20Unknown
 
-vless://ba9ba1d3-19c8-4792-9d3f-ddd2cdcc2e65@support.zoom.us:8443?path=%2Fxprolk-primeline&security=tls&encryption=none&insecure=0&host=primelinelk.me&fp=android&type=ws&allowInsecure=0&sni=primelinelk.me#MHVPN%2004%20%F0%9F%87%BA%F0%9F%87%B8%20USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZXBwM285bmc4ZWo1OXV2@45.128.12.20:14249#MHVPN%2028%20%F0%9F%8C%8D%20Unknown
 
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#MHVPN%2042%20%F0%9F%8C%8D%20Unknown
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?security=tls&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&insecure=0&sni=nas.aizhzo.com#MHVPN%2029%20%F0%9F%8C%8D%20Unknown
 
-vless://fce27c3a-629e-411b-92cc-8822d655ff91@64.188.124.143:2096?mode=auto&path=%2Fxhttp&security=reality&encryption=none&pbk=CxjnGHCI3HXN2RAXwytela7jXyOGDCBqzMAqTfm60D0&host=www.nvidia.com&fp=firefox&type=xhttp&sni=www.nvidia.com&sid=766ef89e321597e5#MHVPN%2043%20%F0%9F%8C%8D%20Unknown
+vless://9ee57d03-dcf5-488b-aff7-305301879353@31.77.29.47:443?security=reality&encryption=none&pbk=ZrHDiON568oDDRIl0XXBL5kBK5bNnkadKFzt6UYIoUs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=jp-akn-1.movietop24.site&sid=ee2fb8a902f1fa2b#MHVPN%2001%20%F0%9F%87%AF%F0%9F%87%B5%20Japan
 
-vless://ba9ba1d3-19c8-4792-9d3f-ddd2cdcc2e65@support.zoom.us:8443?path=%2Fxprolk-primeline&security=tls&encryption=none&insecure=0&host=primelinelk.me&fp=qq&type=ws&allowInsecure=0&sni=primelinelk.me#MHVPN%2005%20%F0%9F%87%BA%F0%9F%87%B8%20USA
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&fp=edge&type=ws&allowInsecure=0&sni=www.volumeroot.com#MHVPN%2030%20%F0%9F%8C%8D%20Unknown
 
-trojan://humanity@172.64.72.171:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#MHVPN%2044%20%F0%9F%8C%8D%20Unknown
+vmess://eyJhZGQiOiIxMjAuNDguMTMzLjE2MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmZGUxMGUzOS00OGJiLTRkY2YtYjNiYS03MWQ3MTEzMjNhNTQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvP1RlbGVncmFtLS0tUExBTkJfTkVULS0tUExBTkJfTkVULS0tUExBTkJfTkVULS0tUExBTkJfTkVUIiwicGNzIjoiIiwicG9ydCI6IjEwMDg2IiwicHMiOiJNSFZQTiAzMSDwn4yNIFVua25vd24iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwidmNuIjoiIn0=
 
-trojan://UX82473651@glorious-lark.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=glorious-lark.rooster465.autos#MHVPN%2006%20%F0%9F%87%BA%F0%9F%87%B8%20USA
+vless://068c73f5-c2fc-4579-96be-6e37cfcf58ed@193.233.220.203:8443?mode=auto&path=%2Fxhttp&security=reality&encryption=none&pbk=KZejN2d1cwCrITHNxFYQVZ4rpMTZzHgJd9p30MZm_3k&fp=firefox&type=xhttp&sni=cdn-us.cahmes.space&sid=6bd33a75ebc0f26e#MHVPN%2002%20%F0%9F%87%BA%F0%9F%87%B8%20USA
 
-trojan://UX82473651@pure-kodiak.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pure-kodiak.rooster465.autos#MHVPN%2006%20%F0%9F%87%A6%F0%9F%87%BA%20Australia
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?security=reality&encryption=none&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp3.nztvpn.com&sid=ea36c03d86f91287#MHVPN%2032%20%F0%9F%8C%8D%20Unknown
 
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#MHVPN%2045%20%F0%9F%8C%8D%20Unknown
+trojan://UX82473651@3.36.50.213:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pure-kodiak.rooster465.autos#MHVPN%2006%20%F0%9F%87%A6%F0%9F%87%BA%20Australia
 
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@147.45.61.213:443?security=reality&encryption=none&pbk=fiH8cNK7JlHGz6hHHjmsspRdnjpemaq1Q_xmP8a5FHo&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=nl4.nztvpn.com&sid=a47d71c75bb8be07#MHVPN%2046%20%F0%9F%8C%8D%20Unknown
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?security=reality&encryption=none&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=jp3.nztvpn.com&sid=ea36c03d86f91287#MHVPN%2033%20%F0%9F%8C%8D%20Unknown
 
-trojan://UX82473651@working-tomcat.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=working-tomcat.rooster465.autos#MHVPN%2007%20%F0%9F%87%A6%F0%9F%87%BA%20Australia
+vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#MHVPN%2034%20%F0%9F%8C%8D%20Unknown
 
-trojan://UX82473651@warm-krill.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=warm-krill.rooster465.autos#MHVPN%2008%20%F0%9F%87%A6%F0%9F%87%BA%20Australia
+vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@tuyiuoyuthgfdbf.localip.ir:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=tuyiuoyuthgfdbf.localip.ir&type=ws&allowInsecure=0&sni=tuyiuoyuthgfdbf.localip.ir#MHVPN%2005%20%F0%9F%87%AE%F0%9F%87%B7%20Iran
 
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@172.67.217.240:443?path=%2Ftrojan&security=tls&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%225%22%2C%20%2294%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22109%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D&insecure=0&host=id1.nathaya.web.id&fp=unsafe&type=ws&allowInsecure=0&sni=id1.nathaya.web.id#MHVPN%2047%20%F0%9F%8C%8D%20Unknown
+vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiJNSFZQTiAzNSDwn4yNIFVua25vd24iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwidmNuIjoiIn0=
 
-trojan://UX82473651@central-jawfish.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=central-jawfish.rooster465.autos#MHVPN%2009%20%F0%9F%87%A6%F0%9F%87%BA%20Australia
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.29.149.140:41705?security=reality&encryption=none&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=e51285e3#MHVPN%2003%20%F0%9F%87%BA%F0%9F%87%B8%20USA
 
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.19:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#MHVPN%2010%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#MHVPN%2036%20%F0%9F%8C%8D%20Unknown
 
-vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#MHVPN%2011%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#MHVPN%2037%20%F0%9F%8C%8D%20Unknown
 
-vless://ba9ba1d3-19c8-4792-9d3f-ddd2cdcc2e65@support.zoom.us:8443?path=%2Fxprolk-primeline&security=tls&encryption=none&insecure=0&host=primelinelk.me&fp=edge&type=ws&allowInsecure=0&sni=primelinelk.me#MHVPN%2007%20%F0%9F%87%BA%F0%9F%87%B8%20USA
+vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@randomquaint.net:2053?mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=randomquaint.net&fp=firefox&type=xhttp&allowInsecure=0&sni=randomquaint.net#MHVPN%2038%20%F0%9F%8C%8D%20Unknown
 
-trojan://UX82473651@central-jawfish.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=central-jawfish.rooster465.autos#MHVPN%2010%20%F0%9F%87%A6%F0%9F%87%BA%20Australia
+vless://ed8704b8-9e9e-48e6-b55b-ae9079ab3a59@150.241.82.85:443?security=reality&encryption=none&pbk=-y7TKZBvfzX4rowKfu0o7hn5U4L0H9JMixcjImIMrWA&fp=random&type=grpc&serviceName=grpc-tunnel&sni=garden.videofriend.site#MHVPN%2002%20%F0%9F%87%B8%F0%9F%87%AE%20Slovenia
 
-vless://a853e120-3570-462b-aec1-e8f3d4f92d24@47.251.95.178:443?security=tls&encryption=none&insecure=0&host=asia.csmaster.site&fp=firefox&type=ws&allowInsecure=0&sni=asia.csmaster.site#MHVPN%2004%20%F0%9F%87%B8%F0%9F%87%AE%20Slovenia
+trojan://UX82473651@52.192.217.187:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=evolving-platypus.rooster465.autos#MHVPN%2004%20%F0%9F%87%BA%F0%9F%87%B8%20USA
 
-vless://a853e120-3570-462b-aec1-e8f3d4f92d24@47.251.95.178:443?path=%2F&security=tls&encryption=none&insecure=0&host=asia.csmaster.site&fp=chrome&type=ws&allowInsecure=0&sni=asia.csmaster.site#MHVPN%2005%20%F0%9F%87%B8%F0%9F%87%AE%20Slovenia
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:21033?security=reality&encryption=none&pbk=EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.kaidee.com&sid=cbd39bea0805e2#MHVPN%2001%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
 
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0@51.222.107.43:2083#MHVPN%2048%20%F0%9F%8C%8D%20Unknown
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#MHVPN%2039%20%F0%9F%8C%8D%20Unknown
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#MHVPN%2049%20%F0%9F%8C%8D%20Unknown
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&fp=android&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#MHVPN%2040%20%F0%9F%8C%8D%20Unknown
 
-vmess://eyJhZGQiOiI1Ny4xMjguMTY0LjIxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJodHRwcy5odHRwLnd3dy5uZXQuY29tLnJhbXNleXYyLmlyLiIsImlkIjoiMTAwMjljMDMtNWQyZi00MTg1LWFhYjItY2JmOTFlZWY3MzYxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlE9PT9lZD0yNTYwIiwicGNzIjoiIiwicG9ydCI6IjgwIiwicHMiOiJNSFZQTiAwMSDwn4ez8J+HsSBOZXRoZXJsYW5kcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#MHVPN%2041%20%F0%9F%8C%8D%20Unknown
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#MHVPN%2050%20%F0%9F%8C%8D%20Unknown
+trojan://UX82473651@3.34.131.153:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pretty-rat.rooster465.autos#MHVPN%2007%20%F0%9F%87%A6%F0%9F%87%BA%20Australia
 
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@45.153.130.153:25102?security=reality&encryption=none&pbk=EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.kaidee.com&sid=cbd39bea0805e2#MHVPN%2001%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TnpKbE9UUTVOV1l0TTJaa1lpMDBDZz09@103.11.76.248:28679#MHVPN%2042%20%F0%9F%8C%8D%20Unknown
 
-trojan://humanity@104.21.37.56:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#MHVPN%2051%20%F0%9F%8C%8D%20Unknown
+vless://44ae52b9-76fc-444d-8e43-186b4384b80a@free-amsterdam-node-1.cloudwidecdn.com:443?security=reality&encryption=none&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=1d86d17709852910#MHVPN%2005%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
 
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.19:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#MHVPN%2012%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.63:443?path=%2Ftyxyws&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=jp3.yohototo.top&fp=unsafe&type=ws&allowInsecure=0&sni=jp3.yohototo.top#MHVPN%2043%20%F0%9F%8C%8D%20Unknown
 
-vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?security=reality&encryption=none&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7205d9079521832c#MHVPN%2001%20%F0%9F%87%AE%F0%9F%87%B3%20India
+vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@fitindoor.net:2053?mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=fitindoor.net&fp=firefox&type=xhttp&allowInsecure=0&sni=fitindoor.net#MHVPN%2044%20%F0%9F%8C%8D%20Unknown
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.156:8080#MHVPN%2052%20%F0%9F%8C%8D%20Unknown
+vless://0a322246-8c1a-47cd-9865-cccebbb2e5c1@31.76.64.248:443?security=reality&encryption=none&pbk=9OV_GN4lgwY_4llPfYCGev-PPXLMj-hfYnveKF4tjws&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=blog.api.www.cloudflare.com&sid=f8#MHVPN%2002%20%F0%9F%87%A8%F0%9F%87%B1%20Chile
 
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#MHVPN%2053%20%F0%9F%8C%8D%20Unknown
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&fp=safari&type=ws&allowInsecure=0&sni=www.volumeroot.com#MHVPN%2045%20%F0%9F%8C%8D%20Unknown
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#MHVPN%2054%20%F0%9F%8C%8D%20Unknown
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#MHVPN%2046%20%F0%9F%8C%8D%20Unknown
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080#MHVPN%2055%20%F0%9F%8C%8D%20Unknown
+vless://6c21cf57-a9a9-4075-ad9f-631152bd911e@maple.hubnori.ink:443?security=reality&encryption=none&pbk=IBbBWAFM5_ZvoudwNh_09i461W0SLjLxHeRo1TMWMHY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=maple.hubnori.ink&sid=d574a560c675152e#MHVPN%2001%20%F0%9F%87%AD%F0%9F%87%BA%20Hungary
 
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#MHVPN%2056%20%F0%9F%8C%8D%20Unknown
+vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@162.159.192.125:443?path=%2Fws&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=a.cwvps.eu.org&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#MHVPN%2047%20%F0%9F%8C%8D%20Unknown
 
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&fp=android&type=ws&allowInsecure=0&sni=www.volumeroot.com#MHVPN%2057%20%F0%9F%8C%8D%20Unknown
+trojan://UX82473651@3.39.225.215:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=kind-stork.rooster465.autos#MHVPN%2002%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
 
-vless://e3k67dwms3@e3k67dwms3-51255166202-direct.tavafog.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=e3k67dwms3-51255166202-direct.tavafog.com#MHVPN%2058%20%F0%9F%8C%8D%20Unknown
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#MHVPN%2048%20%F0%9F%8C%8D%20Unknown
 
-vless://d342d11e-d224-4463-b982-532309285094@203.202.232.211:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#MHVPN%2059%20%F0%9F%8C%8D%20Unknown
+vless://2ba70d96-2a73-4b5c-9939-c43685dbac65@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=azdddaiji5.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=play.google.com#MHVPN%2049%20%F0%9F%8C%8D%20Unknown
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#MHVPN%2060%20%F0%9F%8C%8D%20Unknown
+ss://Y2hhY2hhMjAtcG9seTEzMDU6azFkQk9tT0I0b3FpN1VtcDM3YTFiUQ@82.38.31.178:8080#MHVPN%2050%20%F0%9F%8C%8D%20Unknown
 
-vless://f774f037-6320-42e3-a97b-6d4a1f018dd5@2.28.142.170:443?mode=auto&path=%2F&security=reality&encryption=mlkem768x25519plus.native.0rtt.Y0-j5e-CpehUKzhEeat1dTYevroKyHV4g9HML3ujmlQ&pbk=IqFTx4k5VQydmffvavaOHDXBtdgDxX26A6NtsVvDfhw&host=germanytest.tulnaro.ir&type=xhttp&sni=germanytest.tulnaro.ir&sid=d485c3d5248d6b51#MHVPN%2013%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@104.171.133.209:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#MHVPN%2051%20%F0%9F%8C%8D%20Unknown
 
-vless://3cd1770d-f285-4cf4-8979-e9dd8f4be36a@23.134.76.212:443?security=reality&encryption=none&pbk=cYmfBXsDs1sqQ2ZBW3xsFroB7JHV_ufFT5m7ab7STnU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=us.dark-bit.cc&sid=9ab513f082d4c6e1#MHVPN%2008%20%F0%9F%87%BA%F0%9F%87%B8%20USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#MHVPN%2052%20%F0%9F%8C%8D%20Unknown
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#MHVPN%2061%20%F0%9F%8C%8D%20Unknown
+vless://2ba70d96-2a73-4b5c-9939-c43685dbac65@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=azdddaiji5.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=play.google.com#MHVPN%2053%20%F0%9F%8C%8D%20Unknown
 
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=www.volumeroot.com#MHVPN%2062%20%F0%9F%8C%8D%20Unknown
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#MHVPN%2054%20%F0%9F%8C%8D%20Unknown
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#MHVPN%2063%20%F0%9F%8C%8D%20Unknown
+vless://e2b8b217-cffb-4d66-9b8b-eca6e4334032@13.231.19.51:11690?security=reality&encryption=none&pbk=Bv3z0_uFRabB9C4CFpNfqepZUyeO4YTh1duJdMBNLkg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=034885e346fd30#MHVPN%2055%20%F0%9F%8C%8D%20Unknown
 
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#MHVPN%2064%20%F0%9F%8C%8D%20Unknown
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.155.113:5601#MHVPN%2056%20%F0%9F%8C%8D%20Unknown
 
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&fp=firefox&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#MHVPN%2065%20%F0%9F%8C%8D%20Unknown
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#MHVPN%2057%20%F0%9F%8C%8D%20Unknown
 
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&fp=safari&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#MHVPN%2066%20%F0%9F%8C%8D%20Unknown
+trojan://humanity@138.226.220.205:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#MHVPN%2007%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
 
-vmess://eyJhZGQiOiIxNzMuMjQ5LjE5OC4xMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiWEVYRVZJTCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii90ZWw9QHVzZXJfeGV4ZXZpbCIsInBjcyI6IiIsInBvcnQiOiI0NDMiLCJwcyI6Ik1IVlBOIDY3IPCfjI0gVW5rbm93biIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ==
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#MHVPN%2058%20%F0%9F%8C%8D%20Unknown
 
-vless://e9e60f73-1618-491c-a85b-477bdc959ae6@141.98.7.193:2053?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=141.98.7.193#MHVPN%2068%20%F0%9F%8C%8D%20Unknown
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#MHVPN%2069%20%F0%9F%8C%8D%20Unknown
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#MHVPN%2070%20%F0%9F%8C%8D%20Unknown
-
-vless://a0624d3f-79dd-455e-b06f-1f87957bdea0@46.8.230.143:8443?security=reality&encryption=none&pbk=W346cXA49I0T8FDlWGyH7qTidk1IR1r-0BQrJm6cjD8&headerType=none&fp=chrome&spx=%2F621de6b73e8bf3c&type=tcp&sni=www.sony.ie&sid=85cd#MHVPN%2001%20%F0%9F%87%AE%F0%9F%87%AA%20Ireland
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#MHVPN%2071%20%F0%9F%8C%8D%20Unknown
-
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#MHVPN%2072%20%F0%9F%8C%8D%20Unknown
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#MHVPN%2073%20%F0%9F%8C%8D%20Unknown
-
-vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@185.166.154.111:443?security=reality&encryption=none&pbk=bQZcMViJWXus9rMSTOa-ZAaUJC0mIlPx7XmzrLp8GQU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.bulkavpn.top&sid=94f32cfc#MHVPN%2074%20%F0%9F%8C%8D%20Unknown
-
-vless://4975ba8b-7378-468b-b1be-e2f274c62e97@199.232.78.159:443?path=%2F%3FTelegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP&security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=safa.fastly.com#MHVPN%2075%20%F0%9F%8C%8D%20Unknown
-
-vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#MHVPN%2076%20%F0%9F%8C%8D%20Unknown
-
-vless://86096188-0ece-41af-922d-792c5f96c3ad@194.113.235.100:443?security=reality&encryption=none&pbk=qwSNhDzJQXv30PjMjLNGeYiotNFTS6dQ5TxbsD83YU8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=036da73f3e4c0c93#MHVPN%2077%20%F0%9F%8C%8D%20Unknown
-
-vless://cd0a65ed-546a-4698-bc73-da0c053ebd34@146.75.57.111:443?vcn=play.google.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=play.google.com&mode=auto&path=%2Ffast&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=azerbaijan-sgood-wopd-xn--fhq0la447aac5504dea701axr1g.global.ssl.fastly.net&allowInsecure=0#MHVPN%2078%20%F0%9F%8C%8D%20Unknown
-
-vless://47b83a67-f69d-4d15-9c63-73b7cd0f7d26@217.217.249.70:43000?security=reality&encryption=none&pbk=3gTzdNHyWfheX_IrYiMoraornFzYxPFU9EGirW1gfRk&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=217.217.249.70&sid=99f735c4#MHVPN%2079%20%F0%9F%8C%8D%20Unknown
-
-vless://f9cb2991-ad4a-4a54-aeb3-55d56ac02a8e@87.58.204.60:443?security=reality&encryption=none&pbk=AAvrrzO1XLLOAnqmubC8o3twiHyZDPtKEmafSFmcQz8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=fin01.deflink.net&sid=d76c985ea35d6f80#MHVPN%2014%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206YThIMmE3ZjhTMXRDTzljcS84akxpS1ZXODVZQ0h2UXZwbUw0ei8rOTNjdz06ZHlwMjMxYjV2N2FaM2ZDNjZhRy9iRjRVWTR0MjErMGNhamc3VFZYb2Z4Zz0@31.57.185.253:41575#MHVPN%2080%20%F0%9F%8C%8D%20Unknown
-
-vless://c96f941e-dd8a-0082-89d5-740b79202ed0@185.207.65.250:8443?security=reality&encryption=none&pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&headerType=none&fp=firefox&spx=%2Fc6e79208ab92a6b&type=tcp&sni=x5club.ru&sid=187eea0acfb7f778#MHVPN%2002%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://cd0a65ed-546a-4698-bc73-da0c053ebd34@146.75.57.111:443?vcn=play.google.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=play.google.com&mode=auto&path=%2Ffast&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=azerbaijan-sgood-wopd-xn--fhq0la447aac5504dea701axr1g.global.ssl.fastly.net&allowInsecure=0#MHVPN%2059%20%F0%9F%8C%8D%20Unknown
 
 vless://c96f941e-dd8a-00aa-89d5-740b79202ed0@45.129.2.8:8443?security=reality&encryption=none&pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&headerType=none&fp=firefox&spx=%2Fc6e79208ab92a6b&type=tcp&sni=x5club.ru&sid=187eea0acfb7f778#MHVPN%2003%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
 
 vless://c96f941e-dd8a-4599-89d5-740b79202ed0@185.22.153.231:8443?security=reality&encryption=none&pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&headerType=none&fp=firefox&spx=%2Fc6e79208ab92a6b&type=tcp&sni=x5club.ru&sid=187eea0acfb7f778#MHVPN%2004%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
 
-vless://c96f941e-dd8a-4599-89d5-740b79202ed0@185.22.153.40:8443?security=reality&encryption=none&pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&headerType=none&fp=firefox&spx=%2Fc6e79208ab92a6b&type=tcp&sni=x5club.ru&sid=187eea0acfb7f778#MHVPN%2005%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://c96f941e-dd8a-006e-89d5-740b79202ed0@185.22.153.40:8443?security=reality&encryption=none&pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&headerType=none&fp=firefox&spx=%2Fc6e79208ab92a6b&type=tcp&sni=x5club.ru&sid=187eea0acfb7f778#MHVPN%2005%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
 
-vless://c96f941e-dd8a-006e-89d5-740b79202ed0@185.22.153.40:8443?security=reality&encryption=none&pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&headerType=none&fp=firefox&spx=%2Fc6e79208ab92a6b&type=tcp&sni=x5club.ru&sid=187eea0acfb7f778#MHVPN%2006%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://c96f941e-dd8a-006e-89d5-740b79202ed0@185.22.153.231:8443?security=reality&encryption=none&pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&headerType=none&fp=firefox&spx=%2Fc6e79208ab92a6b&type=tcp&sni=x5club.ru&sid=187eea0acfb7f778#MHVPN%2006%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
 
-vless://c96f941e-dd8a-006e-89d5-740b79202ed0@185.22.153.231:8443?security=reality&encryption=none&pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&headerType=none&fp=firefox&spx=%2Fc6e79208ab92a6b&type=tcp&sni=x5club.ru&sid=187eea0acfb7f778#MHVPN%2007%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#MHVPN%2060%20%F0%9F%8C%8D%20Unknown
 
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206YThIMmE3ZjhTMXRDTzljcS84akxpS1ZXODVZQ0h2UXZwbUw0ei8rOTNjdz06ZHlwMjMxYjV2N2FaM2ZDNjZhRy9iRjRVWTR0MjErMGNhamc3VFZYb2Z4Zz0@31.57.185.253:41575#MHVPN%2081%20%F0%9F%8C%8D%20Unknown
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#MHVPN%2061%20%F0%9F%8C%8D%20Unknown
 
-vless://b4fb7995-b93b-4ffd-b49e-0cf2b47da15a@fastip.zabidat.ir:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&alpn=h2&encryption=mlkem768x25519plus.native.0rtt.shwrr-SZXMfmu3Vc_3Ts3xVnLkri_jVutSWXpmT0KCc&insecure=0&host=ceawvctcqshoivh.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=speedtest.net#MHVPN%2001%20%F0%9F%87%A6%F0%9F%87%B9%20Austria
+vless://b0a100ee-c397-43f2-bdae-2adfb7a0d4e5@188.114.97.6:443?path=%2Fb0a100ee-c397-43f2-bdae-2adfb7a0d4e5&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rnxq-1lpi3m.linmeisoft.com&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=rnxq-1lpi3m.linmeisoft.com#MHVPN%2062%20%F0%9F%8C%8D%20Unknown
 
-vless://7186969a-4ca4-4066-a6af-494b720adf9a@199.232.78.133:443?vcn=play.google.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=play.google.com&mode=auto&path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=fln-speeedest.global.ssl.fastly.net&allowInsecure=0#MHVPN%2082%20%F0%9F%8C%8D%20Unknown
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHYXlZYTJWN3BVYkpCZkt1@20.234.97.18:443#MHVPN%2063%20%F0%9F%8C%8D%20Unknown
 
-vless://c5d6190b-7286-4b73-a5f4-c23a47a61c74@185.143.233.22:80?path=%2F&security=&encryption=mlkem768x25519plus.native.0rtt.hYXavzXaQQy2NKb05TxVuauApqeqUUCKlowIv6IGc0M&host=server-323fff15-a627-4baf-8920-00b5a5a8f146.ir-thr-si1.arvancompute.ir&type=httpupgrade#MHVPN%2006%20%F0%9F%87%B8%F0%9F%87%AE%20Slovenia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMHd4YzNSVVl3eEl6S1Nm@102.37.103.137:443#MHVPN%2064%20%F0%9F%8C%8D%20Unknown
 
-vless://c5d6190b-7286-4b73-a5f4-c23a47a61c74@www.comoiran.ir:443?path=%2Fapi%2Fv1%2Fflights%2Fdest-de%2Fprice-stream&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=www.comoiran.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.comoiran.ir#MHVPN%2004%20%F0%9F%87%AE%F0%9F%87%B7%20Iran
+vless://1fc575d3-81bb-44d5-9efa-4131c7cc677a@103.126.51.58:995?path=%2Fapi%2Fv1&security=tls&encryption=none&insecure=0&host=ocober-romania-new.yyuyy.com&fp=random&type=httpupgrade&allowInsecure=0&sni=ocober-romania-new.yyuyy.com#MHVPN%2003%20%F0%9F%87%B7%F0%9F%87%B4%20Romania
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#MHVPN%2083%20%F0%9F%8C%8D%20Unknown
+vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2F%3FTELEGRAM-TOOTFFARANGI&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#MHVPN%2005%20%F0%9F%87%BA%F0%9F%87%B8%20USA
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#MHVPN%2084%20%F0%9F%8C%8D%20Unknown
+vless://1fc575d3-81bb-44d5-9efa-4131c7cc677a@103.126.51.58:995?path=%2Fapi%2Fv1&security=tls&encryption=none&insecure=0&host=ocober-romania-new.yyuyy.com&fp=random&type=httpupgrade&allowInsecure=0&sni=ocober-romania-new.yyuyy.com#MHVPN%2004%20%F0%9F%87%B7%F0%9F%87%B4%20Romania
 
-vless://7186969a-4ca4-4066-a6af-494b720adf9a@svvr76.hulkirani1.ir:47607?security=&encryption=mlkem768x25519plus.native.0rtt.wEMv3eEkpWQa-oN5bV6hCNIERCjk36LRVPptafIW_l8&host=dynu.com&headerType=http&type=tcp&flow=xtls-rprx-vision#MHVPN%2001%20%F0%9F%87%AD%F0%9F%87%BA%20Hungary
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHYXlZYTJWN3BVYkpCZkt1@20.234.97.18:443#MHVPN%2065%20%F0%9F%8C%8D%20Unknown
 
-vless://b0a100ee-c397-43f2-bdae-2adfb7a0d4e5@188.114.97.6:443?path=%2Fb0a100ee-c397-43f2-bdae-2adfb7a0d4e5&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rnxq-1lpi3m.linmeisoft.com&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=rnxq-1lpi3m.linmeisoft.com#MHVPN%2085%20%F0%9F%8C%8D%20Unknown
+vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2F%3FTELEGRAM-TOOTFFARANGI&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#MHVPN%2006%20%F0%9F%87%BA%F0%9F%87%B8%20USA
 
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@185.31.242.61:443?security=reality&encryption=none&pbk=7mRrVzTchVLWWBru5fCgTvtdkL7lVJ_qRj9HW8Rd8X0&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=est.nztvpn.com&sid=0da7e14db353e7d0#MHVPN%2086%20%F0%9F%8C%8D%20Unknown
-
-vless://fd1d80da-3b27-457a-810b-2b28a309edc1@195.123.6.19:8443?security=reality&encryption=none&pbk=EDXtIJRcxgBXd32fNHSWcd8GUarM3aZeYf_xDD5gSXY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru&sid=6a42dc3d#MHVPN%2008%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHYXlZYTJWN3BVYkpCZkt1@20.234.97.18:443#MHVPN%2087%20%F0%9F%8C%8D%20Unknown
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMHd4YzNSVVl3eEl6S1Nm@102.37.103.137:443#MHVPN%2088%20%F0%9F%8C%8D%20Unknown
-
-vless://1fc575d3-81bb-44d5-9efa-4131c7cc677a@103.126.51.58:995?path=%2Fapi%2Fv1&security=tls&encryption=none&insecure=0&host=ocober-romania-new.yyuyy.com&fp=random&type=httpupgrade&allowInsecure=0&sni=ocober-romania-new.yyuyy.com#MHVPN%2001%20%F0%9F%87%B7%F0%9F%87%B4%20Romania
-
-vless://e19b32e0-f2e7-489d-bc73-0bdc0a4b0845@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F%3FTELEGRAM------TOOTFFARANGI&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=google.com#MHVPN%2089%20%F0%9F%8C%8D%20Unknown
-
-vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2F%3FTELEGRAM-TOOTFFARANGI&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#MHVPN%2009%20%F0%9F%87%BA%F0%9F%87%B8%20USA
-
-vless://1fc575d3-81bb-44d5-9efa-4131c7cc677a@103.126.51.58:995?path=%2Fapi%2Fv1&security=tls&encryption=none&insecure=0&host=ocober-romania-new.yyuyy.com&fp=random&type=httpupgrade&allowInsecure=0&sni=ocober-romania-new.yyuyy.com#MHVPN%2002%20%F0%9F%87%B7%F0%9F%87%B4%20Romania
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHYXlZYTJWN3BVYkpCZkt1@20.234.97.18:443#MHVPN%2090%20%F0%9F%8C%8D%20Unknown
-
-vless://e19b32e0-f2e7-489d-bc73-0bdc0a4b0845@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F%3FTELEGRAM------TOOTFFARANGI&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=google.com#MHVPN%2091%20%F0%9F%8C%8D%20Unknown
-
-vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2F%3FTELEGRAM-TOOTFFARANGI&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#MHVPN%2010%20%F0%9F%87%BA%F0%9F%87%B8%20USA
-
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform115.golnamakcert.top:80?path=%2Fplatform115&security=&encryption=none&host=%5B%27platform115.halalkhor.info%27%5D&type=ws#MHVPN%2002%20%F0%9F%87%AE%F0%9F%87%B3%20India
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform115.golnamakcert.top:80?path=%2Fplatform115&security=&encryption=none&host=%5B%27platform115.halalkhor.info%27%5D&type=ws#MHVPN%2001%20%F0%9F%87%AE%F0%9F%87%B3%20India
